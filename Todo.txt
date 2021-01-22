@@ -1,0 +1,11 @@
+1. Create the form (bootstrap)
+2. Validate the inputs
+3. Send the mail(PHPMailer)
+4. Accept the file upload
+  4.1 Edit the ini file->fileUpload = ON
+  4.2 Validate the file upload
+5. Look for an API to search for jobs
+6. Create the the UI for the jobs
+7. Create the Report for all Applied Jobs
+6. Display the Report
+7. Deploy the App/Use the App

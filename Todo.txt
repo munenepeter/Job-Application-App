@@ -9,3 +9,4 @@
 7. Create the Report for all Applied Jobs
 6. Display the Report
 7. Deploy the App/Use the App
+8. REMEMBER TO ADD AN UPLOADS FOLDER(for all the uploads)
